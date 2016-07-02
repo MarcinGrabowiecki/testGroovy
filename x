@@ -1,6 +1,4 @@
-xxx=111
-def yyy=123
-
+xxx={2+2}
 
 
 class p {
